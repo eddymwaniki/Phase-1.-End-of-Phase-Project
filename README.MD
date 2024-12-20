@@ -12,7 +12,7 @@ Fetch API
 To use this programm you need Node.js installed on your computer.
 Fork the repository
 Clone it by running the code : 
- git clone https://github.com/eddymwaniki/Phase-1.-End-of-Phase-Project.git 
+ git clone git@github.com:eddymwaniki/Phase-1.-End-of-Phase-Project.git  
 Open its directory
 Install JSON server if not already installed by running the code:
   npm install -g -json-server
