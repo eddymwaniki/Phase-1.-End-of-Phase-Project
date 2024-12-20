@@ -2,11 +2,11 @@
 This web application allows users to search for over 200 characters from the show "Rick and Morty". Once the user searches for a character, the website displays a character's details which includes their: Name, Gender, Species, Status(dead/alive), Origin and their Location. After displaying this information, the user can then add any character to a "favourites" list. Additionally, the user can also remove the character from the "favourites" list.
 
 # Technologies Used
-HTML
-Javascript
-JSON server
-CSS
-Fetch API
+1. HTML
+2. Javascript
+3. JSON server
+4. CSS
+5. Fetch API
 
 # Usage
 1. To use this programm you need Node.js installed on your computer.
