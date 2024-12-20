@@ -1,0 +1,52 @@
+h1 {
+    text-align:center;
+    font-weight: bolder;
+}
+h3 {
+    text-align: center;
+    font-weight: bolder;
+}
+
+h2{
+    font-weight: bolder;
+}
+p, span{
+    font-weight: 800;
+}
+#inputField {
+    border: 1px solid ;
+    border-radius: 5px;
+    background-color: whitesmoke;
+}
+#searchButton {
+    color: black;
+    background-color: lightgreen;
+    border-radius: 5px;
+    border: 1px solid;
+    cursor:pointer;
+}
+#favouritesButton {
+    color:white;
+    background-color:blueviolet;
+    border-radius: 5px;
+    cursor: pointer;
+    border: 1px solid;
+}
+.remover{
+    color: white;
+    background-color: crimson;
+    border-radius: 5px;
+    cursor: pointer;
+    border: 1px solid;
+}
+body {
+   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)); 
+   color: white;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   background-image: url(Images/Pasted\ image.png);
+   background-attachment: fixed;
+   background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
+
+}
