@@ -22,11 +22,11 @@ This web application allows users to search for over 200 characters from the sho
 
 # Instructions 
 1. Be sure to search a character's full name for the website to display their details. You can use the following examples:
- Rick Sanchez
- Morty Smith
- Summer Smith
- Beth Smith
- Jerry Smith
+ 1. Rick Sanchez
+ 2. Morty Smith
+ 3. Summer Smith
+ 4. Beth Smith
+ 5. Jerry Smith
 2. Once details are displayed, click on the "Add to Favourites" button to add a character to your "Favourites" list.
 3. To remove a character from your list, press the "Remove from favourties" button 
 
